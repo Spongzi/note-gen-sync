@@ -1,3 +1,11 @@
 # SensorScope开发
 
+## 技术栈选型
+
+包管理工具：bun
+前端语言：react+ts
+后端语言：rust
+
+开发使用tauri
+
 ## 创建项目
