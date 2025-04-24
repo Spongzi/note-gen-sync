@@ -16,4 +16,11 @@
 bun create tauri-app
 ```
 
-选择
+选择：
+
+- ts/js
+- bun
+- react
+- ts
+
+如图所示
